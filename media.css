@@ -30,14 +30,23 @@
         border: 2px solid aqua;
     }
     ul{
-        text-align: left;
+        text-align: center;
+        padding-inline: 10px;
     }
 
-    #contaborda{
-        margin-left: 20%;
-    }
+    
 
     h1{
         text-align: center;
     }
+    aside{
+        text-align: center;
+    }
+
+    #textocentro{
+        text-align: center;
+        font-family: poppinslight;
+        padding: 0 2%;
+    }
+
 }
